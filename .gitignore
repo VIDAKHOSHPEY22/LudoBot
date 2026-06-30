@@ -1,0 +1,93 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Secrets & Keys
+*.pem
+*.key
+*.crt
+*.secret
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Project specific
+ludo.db
+ludo_dev.db
+ludo_test.db
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.mp4
+*.mp3
+*.avi
+*.mov
+
+# Keep essential files
+!.gitignore
+!LICENSE
+!README.md
+!.env.example
+!requirements.txt
+!run.py
