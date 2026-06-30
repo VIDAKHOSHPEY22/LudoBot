@@ -51,7 +51,7 @@ LudoBot is a complete Telegram bot that brings the classic Ludo board game to yo
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/LudoBot.git
+git clone https://github.com/VIDAKHOSHPEY22/LudoBot.git
 cd LudoBot
 ```
 
@@ -237,7 +237,7 @@ LudoBot یک ربات کامل تلگرام است که بازی منچ را ب�
 
 1. **کلون کردن مخزن:**
 ```bash
-git clone https://github.com/yourusername/LudoBot.git
+git clone https://github.com/VIDAKHOSHPEY22/LudoBot.git
 cd LudoBot
 ```
 
