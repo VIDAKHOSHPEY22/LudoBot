@@ -20,11 +20,11 @@ class Settings:
     # === BOT CONFIGURATION ===
     # Telegram Bot Token - Get from @BotFather
     # Format: "1234567890:ABCdefGHIjklMNOpqrsTUVwxyz"
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "8699657786:AAF6hCuZia55prqSPT6H9N_nDBsgesSnpu4")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "your token")
     
     # Owner/Admin User ID - For admin commands and monitoring
     # Can be found using @userinfobot
-    OWNER_ID = int(os.getenv("OWNER_ID", 877742804))
+    OWNER_ID = int(os.getenv("OWNER_ID", "your owner id"))
     
     # === DATABASE CONFIGURATION ===
     # SQLite database file path
@@ -33,7 +33,7 @@ class Settings:
     
     # === SECURITY CONFIGURATION ===
     # Secret key for JWT tokens and session encryption
-    SECRET_KEY = os.getenv("SECRET_KEY", "ludo_secret_2026")
+    SECRET_KEY = os.getenv("SECRET_KEY", "your secret")
     
     # === GAME CONFIGURATION ===
     # Maximum number of players per game
